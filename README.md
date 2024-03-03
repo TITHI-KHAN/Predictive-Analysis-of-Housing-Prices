@@ -175,3 +175,10 @@ Here's a brief version of what you'll find in the data description file.
 **SaleType**: Type of sale
 
 **SaleCondition**: Condition of sale
+
+## Applied Regression Models 
+
+### Ridge Regression
+### Lasso Regression
+### ElasticNet
+### Linear Regression
